@@ -1,3 +1,4 @@
+import React, { useState, useRef } from 'react';
 import { Flame, Send, Sparkles, Download, Share2, AlertTriangle, ShieldAlert, Award, RefreshCw, Lock, CheckCircle2 } from 'lucide-react';
 
 const InstagramIcon = (props) => (
